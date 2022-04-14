@@ -1,7 +1,7 @@
 # TutneseTranslator  📖
 
 ## Files  📁
-### Model.h, Model.cpp, Translator.h, Translator.cpp, FileProcessor.h, FileProcessor.cpp, main.cpp, Makefile, .gitignore
+### Model.h, Model.cpp, Translator.h, Translator.cpp, FileProcessor.h, FileProcessor.cpp, main.cpp, Makefile, .gitignore, README.md
 
 ## Usage  💻
 ### Compile: make
